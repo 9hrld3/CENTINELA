@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 520" width="1100" height="520" role="img" aria-label="Cómo está armado COPILOTO">
+  <style>
+    .t { font-family: Segoe UI, Roboto, Helvetica, Arial, sans-serif; fill: #e6edf3; }
+    .h { font-size: 18px; font-weight: 700; } .p { font-size: 15px; fill: #9da7b3; }
+    .caja { fill: #161b22; stroke: #30363d; stroke-width: 2; }
+    .verde { stroke: #22c55e; } .azul { stroke: #58a6ff; } .ambar { stroke: #fbbf24; }
+    .flecha { stroke: #6e7681; stroke-width: 2.5; fill: none; marker-end: url(#punta); }
+  </style>
+  <defs><marker id="punta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#6e7681"/></marker></defs>
+  <rect width="1100" height="520" fill="#0d1117"/>
+
+  <rect class="caja verde" x="40" y="60" width="300" height="150" rx="16"/>
+  <text class="t h" x="62" y="96">Tablet o celular del conductor</text>
+  <text class="t p" x="62" y="124">App instalable (PWA), letra grande,</text>
+  <text class="t p" x="62" y="146">voz, mapa que gira, un botón principal.</text>
+  <text class="t p" x="62" y="174">Guarda aunque se vaya la señal.</text>
+
+  <rect class="caja azul" x="40" y="300" width="300" height="130" rx="16"/>
+  <text class="t h" x="62" y="336">Celular del titular o familiar</text>
+  <text class="t p" x="62" y="364">Modo «solo mirar»: ve el recorrido</text>
+  <text class="t p" x="62" y="386">en vivo sin poder tocar nada.</text>
+
+  <rect class="caja" x="400" y="150" width="300" height="200" rx="16"/>
+  <text class="t h" x="422" y="188">Base de datos segura</text>
+  <text class="t p" x="422" y="216">Cada conductor ve solo su ruta.</text>
+  <text class="t p" x="422" y="238">Alumnos, asistencia, cobros, recibos,</text>
+  <text class="t p" x="422" y="260">rastro del recorrido e informes.</text>
+  <text class="t p" x="422" y="288">Acceso con usuario y contraseña.</text>
+  <text class="t p" x="422" y="310">Copias de respaldo a Google Drive.</text>
+
+  <rect class="caja ambar" x="760" y="60" width="300" height="130" rx="16"/>
+  <text class="t h" x="782" y="96">Mapas y rutas</text>
+  <text class="t p" x="782" y="124">Mapas abiertos de OpenStreetMap y</text>
+  <text class="t p" x="782" y="146">cálculo de la ruta por calles con</text>
+  <text class="t p" x="782" y="168">indicaciones de giro en español.</text>
+
+  <rect class="caja ambar" x="760" y="220" width="300" height="130" rx="16"/>
+  <text class="t h" x="782" y="256">Informes y recibos en PDF</text>
+  <text class="t p" x="782" y="284">Se generan en el mismo aparato,</text>
+  <text class="t p" x="782" y="306">se guardan en un banco y se comparten.</text>
+
+  <rect class="caja verde" x="760" y="380" width="300" height="110" rx="16"/>
+  <text class="t h" x="782" y="416">Familias por WhatsApp</text>
+  <text class="t p" x="782" y="444">Hoy: envío asistido (un toque).</text>
+  <text class="t p" x="782" y="466">Próximo: API oficial de WhatsApp.</text>
+
+  <path class="flecha" d="M340 135 C 370 135, 370 220, 400 220"/>
+  <path class="flecha" d="M400 300 C 370 300, 370 365, 340 365"/>
+  <path class="flecha" d="M700 200 C 730 200, 730 125, 760 125"/>
+  <path class="flecha" d="M700 285 C 730 285, 730 285, 760 285"/>
+  <path class="flecha" d="M700 330 C 730 330, 730 435, 760 435"/>
+</svg>

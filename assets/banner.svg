@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="COPILOTO, el asistente de quien maneja solo. Creado por HRLD CORP CODE, Ecuador">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#14231a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="340" fill="url(#fondo)"/>
+  <rect x="0" y="0" width="14" height="340" fill="#22c55e"/>
+
+  <text x="64" y="132" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="4" fill="#ffffff">COPI<tspan fill="#22c55e">LOTO</tspan></text>
+  <text x="68" y="186" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#e6edf3">El asistente de quien maneja solo.</text>
+  <text x="68" y="232" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="22" fill="#9da7b3">Transporte escolar · manos libres, ojos en el camino</text>
+  <text x="68" y="288" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#22c55e">Creado por HRLD CORP CODE · Harold Charro López</text>
+  <text x="68" y="316" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="17" fill="#9da7b3">Propiedad intelectual privada · Hecho en Ecuador</text>
+</svg>
